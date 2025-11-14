@@ -21,15 +21,21 @@ This project demonstrates the use of several fundamental data structures in C#, 
 
 
 Sorting is a bunch of well sort algorithms ranging from quick to merge sorts i tried to be more effeicnet while coding since i made more class so i will probably update this soemtime soon to make it more neater espeicaly with the Ulitily class etc and the interface which i tried to implement in the last second here is an explaination of all the sorts etc etc. 
+
 " Bubble Sort"
 Bubble Sort repeatedly compares adjacent elements and swaps them if they’re in the wrong order, “bubbling” the largest values to the end each pass. It’s simple to implement but inefficient for large arrays with O(n²) time complexity. Use it mainly for small or nearly sorted datasets, or when learning the basics of sorting.
+
 " Selection Sort"
 Selection Sort repeatedly finds the smallest (or largest) element in the unsorted part of the array and moves it to its correct position. It performs fewer swaps than Bubble Sort but still has O(n²) time complexity. It’s useful when memory writes are expensive, and the dataset is small.
+
 "Insertion Sort"
 Insertion Sort builds a sorted section of the array one element at a time by inserting each new element into its correct position. It’s efficient for small or nearly sorted arrays, with O(n²) worst-case time but O(n) best-case time. It’s simple and adaptive, often used in hybrid sorting algorithms.
+
 "Merge Sort"
 Merge Sort is a divide-and-conquer algorithm that recursively splits the array in half, sorts each half, and merges them. It guarantees O(n log n) time and is stable, but requires extra memory for merging. It’s good for large datasets or when stability is needed.
+
 "Heap Sort"
 Heap Sort uses a binary heap to repeatedly extract the largest element and move it to the end, maintaining a max-heap. It sorts in-place with O(n log n) guaranteed, but is not stable. It’s useful for large datasets when you need predictable performance and minimal extra memory.
+
 "Quick Sort"
 Quick Sort is a divide-and-conquer algorithm that selects a pivot, partitions the array around it, and recursively sorts the partitions. It’s very fast on average (O(n log n)) and in-place, but worst-case is O(n²) if pivot choices are poor. It’s widely used in practice for large datasets where memory efficiency matters.
