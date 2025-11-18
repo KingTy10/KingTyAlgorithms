@@ -39,3 +39,5 @@ Heap Sort uses a binary heap to repeatedly extract the largest element and move 
 
 "Quick Sort"
 Quick Sort is a divide-and-conquer algorithm that selects a pivot, partitions the array around it, and recursively sorts the partitions. It’s very fast on average (O(n log n)) and in-place, but worst-case is O(n²) if pivot choices are poor. It’s widely used in practice for large datasets where memory efficiency matters.
+
+A prioty queue is a queue where each element is associated with a priority. Unlike a traditional queue where it first in first out, elements are dequeued (removed) based on their priority, not their order of arrival. 
