@@ -1,0 +1,14 @@
+U:\Algorithms\SearchingAlgos\SearchingAlgos\bin\Debug\net8.0\SearchingAlgos.exe
+U:\Algorithms\SearchingAlgos\SearchingAlgos\bin\Debug\net8.0\SearchingAlgos.deps.json
+U:\Algorithms\SearchingAlgos\SearchingAlgos\bin\Debug\net8.0\SearchingAlgos.runtimeconfig.json
+U:\Algorithms\SearchingAlgos\SearchingAlgos\bin\Debug\net8.0\SearchingAlgos.dll
+U:\Algorithms\SearchingAlgos\SearchingAlgos\bin\Debug\net8.0\SearchingAlgos.pdb
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.AssemblyInfoInputs.cache
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.AssemblyInfo.cs
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.csproj.CoreCompileInputs.cache
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.dll
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\refint\SearchingAlgos.dll
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.pdb
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\SearchingAlgos.genruntimeconfig.cache
+U:\Algorithms\SearchingAlgos\SearchingAlgos\obj\Debug\net8.0\ref\SearchingAlgos.dll
