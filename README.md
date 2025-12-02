@@ -40,4 +40,30 @@ Heap Sort uses a binary heap to repeatedly extract the largest element and move 
 "Quick Sort"
 Quick Sort is a divide-and-conquer algorithm that selects a pivot, partitions the array around it, and recursively sorts the partitions. It’s very fast on average (O(n log n)) and in-place, but worst-case is O(n²) if pivot choices are poor. It’s widely used in practice for large datasets where memory efficiency matters.
 
-A prioty queue is a queue where each element is associated with a priority. Unlike a traditional queue where it first in first out, elements are dequeued (removed) based on their priority, not their order of arrival. 
+A prioty queue is a queue where each element is associated with a priority. Unlike a traditional queue where it first in first out, elements are dequeued (removed) based on their priority, not their order of arrival.
+
+This is what is in the SearchingAlgo folder YIPPEEEE 
+1.Linear Search 
+What it is:
+Linear search checks each element one-by-one from start to finish until it finds the target.
+How it works:
+It loops through the list and compares the current element to the target.
+When to use it:
+Use linear search with unsorted data, very small lists, or when you don’t care about speed.
+It’s the simplest and most reliable when the data is not sorted.
+
+2. Binary Search
+What it is:
+Binary search repeatedly cuts the sorted list in half and decides whether to search left or right.
+How it works:
+It checks the middle element; if the target is smaller, it searches the left half, otherwise the right half.
+When to use it:
+Use binary search when the list is sorted and you need fast performance — it’s very efficient for large datasets.
+
+3. Interpolation Search
+What it is:
+Interpolation search is like binary search but estimates where the value might be based on its range, instead of always checking the middle.
+How it works:
+It uses the data’s numeric distribution to “guess” a closer position to the target, making it faster for evenly spaced numbers.
+When to use it:
+Use interpolation search on sorted lists with evenly distributed values, like IDs, test scores, or ranges without large gaps.
