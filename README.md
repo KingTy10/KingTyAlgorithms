@@ -67,3 +67,7 @@ How it works:
 It uses the data’s numeric distribution to “guess” a closer position to the target, making it faster for evenly spaced numbers.
 When to use it:
 Use interpolation search on sorted lists with evenly distributed values, like IDs, test scores, or ranges without large gaps.
+
+
+TREES
+In this project, I built an application that demonstrates my understanding of tree structures. The program loads numerical data from a text file, sorts the data, and then inserts each value into a custom Binary Search Tree that I created using my own Node and BinarySearchTree classes. After building the tree, the program performs an in-order traversal to display the values in sorted order. This project shows that I can work with file input, implement my own data structures, and apply tree-based algorithms in C#.
