@@ -1,0 +1,14 @@
+C:\Users\tyron\Downloads\SQLBS\Trees\bin\Debug\net8.0\Trees.exe
+C:\Users\tyron\Downloads\SQLBS\Trees\bin\Debug\net8.0\Trees.deps.json
+C:\Users\tyron\Downloads\SQLBS\Trees\bin\Debug\net8.0\Trees.runtimeconfig.json
+C:\Users\tyron\Downloads\SQLBS\Trees\bin\Debug\net8.0\Trees.dll
+C:\Users\tyron\Downloads\SQLBS\Trees\bin\Debug\net8.0\Trees.pdb
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.AssemblyInfoInputs.cache
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.AssemblyInfo.cs
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.dll
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\refint\Trees.dll
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.pdb
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\Trees.genruntimeconfig.cache
+C:\Users\tyron\Downloads\SQLBS\Trees\obj\Debug\net8.0\ref\Trees.dll
